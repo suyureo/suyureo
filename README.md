@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi！
 
-<!--
-**suyureo/suyureo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+大家好，我来自中国福建。我的名字是黄晟楠
 
-Here are some ideas to get you started:
+目前即将就读于福州大学至诚学院，希望能通过大学四年的奋斗达到考研上岸的目标！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+在这里，我期待：
+
+**认识结交更多的同伴**
+
+**提高完善自己的编程能力**
+
+**学习探索更丰富有趣的计算机知识**
+
+**最后，与各位同学同伴一起共勉，共同进步！**
